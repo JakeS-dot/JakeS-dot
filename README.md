@@ -11,7 +11,7 @@
 <br><br>
 📧 Mail : jakeshankman15@gmail.com
 
-🔗 Personal website : [jakeshankman.com](jakeshankman.com)
+🔗 Personal website : [https://jakeshankman.com](jakeshankman.com)
 
 </div><br>
 
@@ -24,9 +24,15 @@
   <img src="https://img.shields.io/badge/-HTML-ff6600?style=for-the-badge&logo=html5&logoColor=ff6600&labelColor=282828">
   
 <img src="https://img.shields.io/badge/-CSS-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=282828">
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-5cd9ff?style=for-the-badge&logo=react&logoColor=5cd9ff&labelColor=282828">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/-Next.JS-a8b9c0?style=for-the-badge&logo=next.js&logoColor=a8b9c0&labelColor=282828">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/-Git-f05030?style=for-the-badge&logo=git&logoColor=f05030&labelColor=282828">
 
 </div>
