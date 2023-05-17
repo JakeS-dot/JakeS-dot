@@ -47,9 +47,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=JakeS-dot&label=Profile+visitors:)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeS-dot&layout=compact&theme=dark)](https://github.com/jrmydix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeS-dot&layout=compact&theme=dark)](https://github.com/JakeS-dot)
 
-![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeS-dot&count_private=true&show_icons=true&theme=dark&hide=issues)
+![Jakes GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeS-dot&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
 
