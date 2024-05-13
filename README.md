@@ -10,7 +10,7 @@
 <br><br>
 📧 Mail : jakeshankman15@gmail.com
 
-🔗 Personal website : [https://jakeshankman.com](jakeshankman.me)
+🔗 Personal website : [https://jakeshankman.me](jakeshankman.me)
 
 </div><br>
 
