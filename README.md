@@ -11,7 +11,7 @@
 <br><br>
 📧 Mail : jakeshankman15@gmail.com
 
-🔗 Personal website : [https://jakeshankman.com](jakeshankman.com)
+🔗 Personal website : [https://jakeshankman.com](jakeshankman.me)
 
 </div><br>
 
@@ -48,8 +48,6 @@
 ![Views](https://komarev.com/ghpvc/?username=JakeS-dot&label=Profile+visitors:)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeS-dot&layout=compact&theme=dark)](https://github.com/JakeS-dot)
-
-![Jakes GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeS-dot&count_private=true&show_icons=true&theme=dark)
 
 </div><br>
 
